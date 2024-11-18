@@ -31,5 +31,5 @@ int main(){
         sum+= i;
     }
 
-    cout<<"The sum of all odd numbers is: "<<sum;
+    cout<<"The sum of all even numbers is: "<<sum;
 }
